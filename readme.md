@@ -1,1 +1,1 @@
-python.ipynb - Corizo
+python.ipynb - Corizo intenship
