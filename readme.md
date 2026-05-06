@@ -1,6 +1,5 @@
 python.ipynb - Corizo intenship
 
 📘 Python Practice  
-📗 ML Algorithms  
+📗 ML Algorithms etc
 📙 Data Cleaning  
-📕 Project Updates
