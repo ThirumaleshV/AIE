@@ -1,4 +1,4 @@
-python.ipynb - Corizo intenship
+python.ipynb - Corizo intenship -Data Science
 
 📘 Python Practice  
 📗 ML Algorithms etc
