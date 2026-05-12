@@ -4,5 +4,6 @@ This repository contains my Data Science internship work completed during the Co
 📘 Python Practice  
 📖 numpy
 📒pandas
-📗 ML Algorithms etc
+📗 ML Algorithms
 📙 Data Cleaning  
+📚 projects
