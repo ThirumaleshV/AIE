@@ -10,5 +10,5 @@ This repository contains my Data Science internship work completed during the Co
 🧹 Data Cleaning & Preprocessing  
 📈 Data Analysis  
 
-## In future :
+## In future : i will do
 This repository includes practice notebooks, exercises, and projects completed as part of my data science learning journey
