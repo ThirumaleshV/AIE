@@ -1,6 +1,6 @@
-# Data Science Internship Projects – Corizo
+# Data Science Internship – Corizo
 
-This repository contains my Data Science internship work completed during the Corizo Internship Program.
+This repository contains my Data Science internship work completed.
 
 ## Topics Covered
 🐍 Python Programming  
